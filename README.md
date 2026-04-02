@@ -1,2 +1,34 @@
-# PyRadio
-PyRadio is an open source project, to cast radios from different countries, to your laptop or a PC with Windows, without using any Websites!
+# PyRadio v1.5
+**A lightweight, global radio player for Windows 10 and 11!**
+
+Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turkey, US and UK!!!.
+
+
+
+---
+
+### Key Features
+* **Global Selection:** 18 hand-picked HQ streams from across the world (It will grow later).
+* **Your favourites:** Save your top stations with one click (Stored in your user!).
+* **Zero requirements (apart from your pc :3 ):** The installer includes everything (No need to install anything else).
+* **Potato optimized** Built to run smooth on any hardware (Cmon this thing uses 21mb of your ram and almost no cpu usage).
+
+---
+
+### 📥 Download & Install
+1. **[Download PyRadio_Setup.exe](#)** <-- *We will put your link here!*
+2. Run the installer.
+3. Enjoy the music!
+
+> **Note:** If you are on Windows 7, you may need the Universal C Runtime (KB2999226) for the app to launch (In my case it didn't even tried). Windows 10/11 is required (I mean no one uses Windows XP XD)!
+
+---
+
+### 🛠️ Built With
+* **Python 3.14**
+* **Tkinter** (UI)
+* **python-vlc** (Audio Engine)
+* **Inno Setup** (Installer)
+
+---
+*Created by EymenMart and his fellow friendz*
