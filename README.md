@@ -22,6 +22,8 @@ Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turk
 
 > **Note:** If you are on Windows 7, you may need the Universal C Runtime (KB2999226) for the app to launch (In my case it didn't even tried). Windows 10/11 is required (I mean no one uses Windows XP XD)!
 
+> **READ THIS:** If you have any trouble, just Email me and my team using this Email account: pyradiosupport@gmail.com!
+
 ---
 
 ### Built With
