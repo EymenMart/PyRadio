@@ -15,7 +15,7 @@ Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turk
 
 ---
 
-### 📥 Download & Install
+### Download & Install
 1. **[Download PyRadio_Setup.exe](https://github.com/EymenMart/PyRadio/releases/tag/Release)**
 2. Run the installer.
 3. Enjoy the music!
@@ -24,7 +24,7 @@ Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turk
 
 ---
 
-### 🛠️ Built With
+### Built With
 * **Python 3.14**
 * **Tkinter** (UI)
 * **python-vlc** (Audio Engine)
