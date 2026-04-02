@@ -1,4 +1,4 @@
-# PyRadio v1.5
+# PyRadio v2.0
 **A lightweight, global radio player for Windows 10 and 11!**
 
 Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turkey, US and UK!!!.
