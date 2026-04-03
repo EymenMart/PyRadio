@@ -1,20 +1,20 @@
 [
+    {"name": "🇺🇦 Radio Bajraktar", "url": "http://online.radiobayraktar.com.ua/RadioBayraktar"},
+    {"name": "🇵🇱 Radio ZET", "url": "http://r.zetradio.pl/ZET"},
+    {"name": "🇵🇱 Eska Rock", "url": "http://waw01-01.ic.smcdn.pl/2080-1.mp3"},
+    {"name": "🇩🇪 80s80s (Retro)", "url": "http://80s80s.hoerradar.de/80s80s-80er-mp3-hq"},
+    {"name": "🇹🇷 Metro FM", "url": "http://17733.live.streamtheworld.com/METRO_FM_SC"},
+    {"name": "🌑 Nightride (Synth)", "url": "https://stream.nightride.fm/nightride.m4a"},
     {"name": "🇺🇦 Hit FM (Kyiv)", "url": "https://online.hitfm.ua/HitFM"},
     {"name": "🇺🇦 Lviv Wave (News)", "url": "http://onair.lviv.fm:8000/lviv.fm"},
     {"name": "🇺🇦 Radio ROKS", "url": "http://online.radioroks.ua/RadioROKS"},
     {"name": "🇺🇦 Kiss FM (Dance)", "url": "http://online.kissfm.ua/KissFM"},
-    {"name": "🇺🇦 Radio Bajraktar", "url": "https://radio.bayraktar.ua/bayraktar.mp3"},
     {"name": "🇵🇱 RMF FM (Kraków)", "url": "http://217.74.72.10:8000/rmf_fm"},
-    {"name": "🇵🇱 Radio ZET", "url": "https://r.zetcdn.net/zet/index.m3u8"},
-    {"name": "🇵🇱 Eska Rock", "url": "https://ext03.polsatmedia.pl/ROCK/index.m3u8"},
     {"name": "🇩🇪 Antenne Bayern", "url": "http://mp3channels.webradio.antenne.de/antenne"},
-    {"name": "🇩🇪 80s80s (Retro)", "url": "https://80s80s.hoerradar.de/80s80s-de-mp3-hq"},
     {"name": "🇩🇪 TechnoBase.FM", "url": "http://listen.technobase.fm/tunein-mp3-pls"},
     {"name": "🇹🇷 Kral Pop (Hits)", "url": "http://46.20.7.125:80/;"},
     {"name": "🇹🇷 Power FM", "url": "https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio"},
-    {"name": "🇹🇷 Metro FM", "url": "https://listen.powerapp.com.tr/metrofm/mpeg/icecast.audio"},
     {"name": "🇬🇧 Classic 80s (UK)", "url": "http://media-ice.musicradio.com/Heart80s"},
     {"name": "🇬🇧 BBC World Service", "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service"},
-    {"name": "🇺🇸 NPR News (USA)", "url": "https://npr-ice.streamguys1.com/live.mp3"},
-    {"name": "🌑 Nightride (Synth)", "url": "https://stream.nightride.fm/nightride.m3u8"}
+    {"name": "🇺🇸 NPR News (USA)", "url": "https://npr-ice.streamguys1.com/live.mp3"}
 ]
