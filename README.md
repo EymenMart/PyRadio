@@ -1,4 +1,7 @@
-# PyRadio v2.2
+# PyRadio v2.3
+
+> **Note:** Older versions starting from v2.2 will still be supported, until further notice
+
 **A lightweight, global radio player for Windows 10 and 11!**
 
 Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turkey, US and UK!!!.
@@ -8,8 +11,8 @@ Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turk
 ---
 
 ### Key Features
-* **Global Selection:** 12 hand-picked HQ streams from across the world (It will grow later).
-* **Your favourites:** Save your top stations with one click (Stored in your user!).
+* **Extended support:** Older versions starting from v2.2 will still be supported, no matter what (Version v2.0 is not supported)!
+* **Global Selection:** 15 hand-picked HQ streams from across the world (It will grow later).
 * **Zero requirements (apart from your pc :3 ):** The installer includes everything (No need to install anything else).
 * **Potato optimized** Built to run smooth on any hardware (Cmon this thing uses 21mb of your ram and almost no cpu usage).
 
