@@ -1,0 +1,13 @@
+    default_stations = {
+        "🇺🇦 Hit FM (Kyiv)": "https://online.hitfm.ua/HitFM",
+        "🇺🇦 Radio ROKS": "http://online.radioroks.ua/RadioROKS",
+        "🇺🇦 Radio Bajraktar": "https://radio.bayraktar.ua/bayraktar.mp3",
+        "🇵🇱 Radio ZET": "https://r.zetcdn.net/zet/index.m3u8",
+        "🇵🇱 Eska Rock": "https://ext03.polsatmedia.pl/ROCK/index.m3u8",
+        "🇩🇪 TechnoBase.FM": "http://listen.technobase.fm/tunein-mp3-pls",
+        "🇩🇪 80s80s (Retro)": "https://80s80s.hoerradar.de/80s80s-de-mp3-hq",
+        "🇹🇷 Power FM": "https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio",
+        "🇹🇷 Metro FM": "https://listen.powerapp.com.tr/metrofm/mpeg/icecast.audio",
+        "🌑 Nightride (Synth)": "https://stream.nightride.fm/nightride.m3u8",
+        "🇺🇸 NPR News (USA)": "https://npr-ice.streamguys1.com/live.mp3"
+    }
