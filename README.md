@@ -1,6 +1,6 @@
 # PyRadio v2.3
 
-> **Note:** Older versions starting from v2.2 will still be supported, until further notice
+> **Note:** Older versions starting from v2.2 will still be supported, until further notice. I am still looking into the project time to time, to notice if anything broke or not :)
 
 **A lightweight, global radio player for Windows 10 and 11!**
 
