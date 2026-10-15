@@ -19,17 +19,18 @@ Listen to the most popular radio stations across the globe!!!.
 ---
 
 ### Download & Install
-1. **[Download PyRadio](https://github.com/EymenMart/PyRadio/releases)**
+1) **[Download PyRadio](https://github.com/EymenMart/PyRadio/releases)**
+   
    If you have a newer version of PyRadio:
 
-   2. Download and Install VLC 32 Bit (ITS IMPORTANT TO INSTALL 32 BIT VLC)
+   2) Download and Install VLC 32 Bit (ITS IMPORTANT TO INSTALL 32 BIT VLC)
 
-   3. Install PyRadio and use it!!!
+   3) Install PyRadio and use it!!!
 
 
    If you have an older version of PyRadio:
 
-   2. Run the installer and enjoy it!!!
+   2) Run the installer and enjoy it!!!
 
 ---
 
