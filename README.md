@@ -1,31 +1,27 @@
-# PyRadio v2.3
+# PyRadio v2.4
 
-> **Note:** Older versions starting from v2.2 will still be supported, until further notice. I am still looking into the project time to time, to notice if anything broke or not :)
+> **Note:** Older Versions from v2.2 are supported, but lack newer features.
 
-**A lightweight, global radio player for Windows 10 and 11!**
+**A simple, easy to use Online Radio Player (Windows Only)!!!**
 
-Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turkey, US and UK!!!.
+Listen to the most popular radio stations across the globe!!!.
 
 
 
 ---
 
 ### Key Features
-* **Extended support:** Older versions starting from v2.2 will still be supported, no matter what (Version v2.0 is not supported)!
-* **Global Selection:** 15 hand-picked HQ streams from across the world (It will grow later).
-* **Zero requirements (apart from your pc :3 ):** The installer includes everything (No need to install anything else).
-* **Potato optimized** Built to run smooth on any hardware (Cmon this thing uses 21mb of your ram and almost no cpu usage).
+* **Simplicity:** No need to compile anything, everything is done for you (although source code is available)!!
+* **Global Selection:** 15 radio stations around the globe!!!
+* **Lightweight app:**  You don't really need an RTX 5090 and 64gb of RAM to run this app!!
+* **Visual Style:** Simple design, just click your mouse 4 times and you're good to listen to your favourite radio!!!
 
 ---
 
 ### Download & Install
 1. **[Download PyRadio_Setup.exe](https://github.com/EymenMart/PyRadio/releases)**
 2. Run the installer.
-3. Enjoy the music!
-
-> **Note:** If you are on Windows 7, you may need the Universal C Runtime (KB2999226) for the app to launch (In my case it didn't even tried). Windows 10/11 is required (I mean no one uses Windows XP XD)!
-
-> **READ THIS:** If you have any trouble, just Email me and my team using this Email account: pyradiosupport@gmail.com!
+3. Enjoy!
 
 ---
 
@@ -33,7 +29,8 @@ Listen to your favourite radio channels accross Ukraine, Poland, Deuchland, Turk
 * **Python 3.14**
 * **Tkinter** (UI)
 * **python-vlc** (Audio Engine)
-* **Inno Setup** (Installer)
+* **Inno Setup** (Installer) [Note: This is no longer used starting from v2.4, the app is now portable!!!]
 
 ---
-*Created by EymenMart and his fellow friendz*
+
+[Notice: This was made with the help of AI, so I don't really take the credit for making this app. Nor do I have a degree at programming.]
