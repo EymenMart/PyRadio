@@ -2,11 +2,11 @@
 
 > **Note:** Older Versions from v2.2 are supported, but lack newer features.
 
-**A simple, easy to use Online Radio Player (Windows Only)!!!**
+**A simple, easy to use Online Radio Player!!!**
 
 Listen to the most popular radio stations across the globe!!!.
 
-
+[Works with Windows only. Support for other Operating Systems is coming soon, but considering this update took me 7 month, expect it to come out in like 2027.]
 
 ---
 
@@ -19,9 +19,13 @@ Listen to the most popular radio stations across the globe!!!.
 ---
 
 ### Download & Install
-1. **[Download PyRadio_Setup.exe](https://github.com/EymenMart/PyRadio/releases) (Starting from version 2.4, installer is no longer needed, so just download it and use it!!!)**
-2. Run the installer.
-3. Enjoy!
+1. **[Download PyRadio](https://github.com/EymenMart/PyRadio/releases)**
+   If you have a newer version of PyRadio:
+   2. Download and Install VLC 32 Bit (ITS IMPORTANT TO INSTALL 32 BIT VLC)
+   3. Install PyRadio and use it!!!
+
+   If you have an older version of PyRadio:
+   3. Run the installer and enjoy it!!!
 
 ---
 
