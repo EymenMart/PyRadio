@@ -29,7 +29,7 @@ Listen to the most popular radio stations across the globe!!!.
 
    If you have an older version of PyRadio:
 
-   3. Run the installer and enjoy it!!!
+   2. Run the installer and enjoy it!!!
 
 ---
 
