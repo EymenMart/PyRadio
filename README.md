@@ -19,7 +19,7 @@ Listen to the most popular radio stations across the globe!!!.
 ---
 
 ### Download & Install
-1. **[Download PyRadio_Setup.exe](https://github.com/EymenMart/PyRadio/releases)**
+1. **[Download PyRadio_Setup.exe](https://github.com/EymenMart/PyRadio/releases) (Starting from version 2.4, installer is no longer needed, so just download it and use it!!!)**
 2. Run the installer.
 3. Enjoy!
 
